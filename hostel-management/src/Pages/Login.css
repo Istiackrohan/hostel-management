@@ -1,0 +1,17 @@
+#logo {
+    max-width: 50px;
+}
+
+#form {
+    min-width: 250 px;
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    height: 30px;
+}
+
+input::active {
+    border: 1px solid rgb(255, 134, 78);
+}
